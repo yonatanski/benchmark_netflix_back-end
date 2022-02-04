@@ -78,7 +78,7 @@ mediaRouter.get("/:id", async (req, res, next) => {
 mediaRouter.put("/:id", async (req, res, next) => {
   try {
     const mediaJsonArray = await readMediaJson()
-    const index = mediaJsonArray.findIndex((blog) => blog.id === req.params.id) //findIndexToUpdate
+    const index = mediaJsonArray.findIndex((blog) => blog.imdbID === req.params.id) //findIndexToUpdate
     const mediaToModify = mediaJsonArray[index]
     const updateBlogpost = { ...mediaToModify, ...req.body, updatedAt: new Date() }
 
@@ -152,7 +152,7 @@ mediaRouter.patch("/:id/poster", cloudinaryUploader, async (req, res, next) => {
     const index = mediaJsonArray.findIndex((media) => media.imdbID == req.params.id)
     const mediaToModify = mediaJsonArray[index]
     // const UpdatedReqBody = req.body
-    const updatedMedia = { ...mediaToModify, Poster: req.file.path, updatedAt: new Date(), id: req.params.id }
+    const updatedMedia = { ...mediaToModify, Poster: req.file.path, updatedAt: new Date() }
     mediaJsonArray[index] = updatedMedia
     await writeMediatJson(mediaJsonArray)
 
