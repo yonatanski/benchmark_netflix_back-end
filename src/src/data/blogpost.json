@@ -1,0 +1,163 @@
+[
+    {
+        "id": "3ys3m74kyx4ltn2",
+        "category": "Action",
+        "title": "TEST 2",
+        "cover": {},
+        "author": {
+            "name": "StriversSSSSSSS"
+        },
+        "content": "<p>DXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>",
+        "createdAt": "2022-01-27T15:23:21.806Z"
+    },
+    {
+        "id": "3ys3m74kyx4ltsw",
+        "category": "Action",
+        "title": "TEST 2",
+        "cover": {},
+        "author": {
+            "name": "StriversSSSSSSS"
+        },
+        "content": "<p>DXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>",
+        "createdAt": "2022-01-27T15:23:22.016Z"
+    },
+    {
+        "id": "3ys3m74kyx4mrn9",
+        "category": "Comedy",
+        "title": "TEST 2",
+        "cover": {},
+        "author": {
+            "name": "WOBDE"
+        },
+        "content": "<p>FYCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC</p>",
+        "createdAt": "2022-01-27T15:24:05.877Z"
+    },
+    {
+        "id": "3ys3m74kyx5et3p",
+        "category": "Horror",
+        "title": "test 4",
+        "cover": {},
+        "author": {
+            "name": "jjvhvjbjkbh"
+        },
+        "content": "<p>fgccccccccccccccccccccccccccccccc</p>",
+        "createdAt": "2022-01-27T15:45:54.134Z"
+    },
+    {
+        "id": "3ys3m74kyx6waio",
+        "category": "Horror",
+        "title": "Strivers",
+        "cover": {},
+        "author": {
+            "name": "yooooo ni"
+        },
+        "content": "<p>jyjjjjjjjjjjjjjjyjryjyjkk</p>",
+        "createdAt": "2022-01-27T16:27:29.472Z"
+    },
+    {
+        "id": "3ys3m74kyx70ldu",
+        "category": "Horror",
+        "title": "Strivers",
+        "cover": {},
+        "author": {
+            "name": "yooooo ni"
+        },
+        "content": "<p>jyjjjjjjjjjjjjjjyjryjyjkk</p>",
+        "createdAt": "2022-01-27T16:30:50.178Z"
+    },
+    {
+        "id": "3ys3m74kyx71wcz",
+        "category": "Horror",
+        "title": "aklsjd",
+        "cover": "http://localhost:3003/3ys3m74kyx71wcz.jpg",
+        "author": {
+            "name": "aslkdj"
+        },
+        "content": "<p>askjasdlk</p>",
+        "createdAt": "2022-01-27T16:31:51.059Z",
+        "updatedAt": "2022-01-27T16:32:01.531Z"
+    },
+    {
+        "id": "3ys3m74kyx7f15r",
+        "category": "Romance",
+        "title": "TEST 2rrrrrrrrrrrrrr",
+        "cover": null,
+        "author": {
+            "name": "dsa fasf"
+        },
+        "content": "<p>hfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffhhhhhh</p>",
+        "createdAt": "2022-01-27T16:42:03.807Z"
+    },
+    {
+        "id": "3ys3m74kyx7ft1w",
+        "category": "Romance",
+        "title": "TEST 2rrrrrrrrrrrrrr",
+        "cover": "http://localhost:3003/3ys3m74kyx7ft1w.jpg",
+        "author": {
+            "name": "dsa fasf"
+        },
+        "content": "<p>hfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffhhhhhh</p>",
+        "createdAt": "2022-01-27T16:42:39.956Z",
+        "updatedAt": "2022-01-27T16:42:52.260Z"
+    },
+    {
+        "id": "3ys3m74kyx7id0p",
+        "category": "Romance",
+        "title": "TEST 2",
+        "cover": "http://localhost:3003/3ys3m74kyx7id0p.jpg",
+        "author": {
+            "name": "Webhhhhhhhhhhhhhhhtrrwwsss"
+        },
+        "content": "<p>kjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>",
+        "createdAt": "2022-01-27T16:44:39.145Z",
+        "updatedAt": "2022-01-27T16:44:51.426Z"
+    },
+    {
+        "id": "3ys3m74kyxkiggn",
+        "category": "Horror",
+        "title": "scary ssssssssss",
+        "cover": "http://localhost:3003/3ys3m74kyxkiggn.jpg",
+        "author": {
+            "name": "sokrates"
+        },
+        "content": "<p>MERN Stack: MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node. js. It is designed to make the development process smoother and easier.</p>",
+        "createdAt": "2022-01-27T22:48:38.615Z",
+        "updatedAt": "2022-01-27T22:48:39.380Z"
+    },
+    {
+        "id": "3ys3m74kyxkijed",
+        "category": "Horror",
+        "title": "scary ssssssssss",
+        "cover": "http://localhost:3003/3ys3m74kyxkijed.jpg",
+        "author": {
+            "name": "sokrates"
+        },
+        "content": "<p>MERN Stack: MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node. js. It is designed to make the development process smoother and easier.</p>",
+        "createdAt": "2022-01-27T22:48:42.421Z",
+        "updatedAt": "2022-01-27T22:48:42.463Z"
+    },
+    {
+        "id": "3ys3qickz42r134",
+        "category": "Horror",
+        "title": "Before depoly Test",
+        "cover": "http://localhost:3005/3ys3qickz42r134.jpg",
+        "author": {
+            "name": "Yonatan Deribe"
+        },
+        "content": "<p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>remvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p>loremvdddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p><p><br></p><p><br></p>",
+        "createdAt": "2022-02-01T12:05:48.738Z",
+        "updatedAt": "2022-02-01T12:05:54.058Z"
+    },
+    {
+        "id": "f5hs6amkz7pe1l0",
+        "category": "Romance",
+        "title": "dgxfxf",
+        "cover": "https://res.cloudinary.com/strive-blogposts/image/upload/v1643936583/blogpost/jfa7fziaj7mecmochjoo.jpg",
+        "author": {
+            "name": "yrfcg"
+        },
+        "content": "<div class='py-5 blog-content'><p>Ervins, one of the fresh graduates from Strive School's latest Web Development program, joined the Latvia-based digital agency <a href='https://revpanda.com/'>RevPanda</a> three weeks earlier. Were you to ask him at the beginning of the Covid-19 pandemic what he'd be doing now, the answer would have been very different!</p><p>Read on below to learn about Ervins's story and how the soft skills he has gained throughout his career thus far, coupled with the technical training received at Strive, has helped him land a job as a web developer. </p><p>As a salesman in the travel industry, when the pandemic hit, Ervins found himself with a lot of free time. Learning to code was something that rested in the back of Ervins's mind for a while, but he never got around to systematically taking on this challenge. With the unexpected downtime, Ervins decided that instead of sitting at home and rolling his thumbs, now was the perfect opportunity to get on with learning a new skill.</p><p>Like everyone new to programming, the first thing Ervins did was do some simple Google searches for free resources. He watched Youtube tutorials and read blogposts to learn the basics of coding, and stumbled upon <a href='https://strive.school/?utm_source=strive_blog&amp;utm_campaign=i-was-a-salesman-6-months-ago-and-now-i-am-a-professional-web-developer'>Strive School</a> by chance.</p><p>'Strive's message was straight to the point. I visited your website, read through everything, and the rest is history!' Says Ervins.</p><p>As a former salesman, Ervins is cognizant of the advantageous soft skills he brings to the table, but he also appreciated the teamwork skills gained through group projects at Strive.</p><p>'I was told that there were other more experienced candidates for my current job, but what stood out as more important for the hiring managers was my ability to communicate clearly and work in a team. Soft skills are really important even for software engineering.'</p><p>Since joining Strive, Ervins has already recommended a friend to join our new cohort And when asked what tips he would give to current and future students at Strive, the wisdom is endless. 'You have to have the ability to overcome adversity,' says Ervins, 'The program was the hardest thing I've done in my life, and you need to be able to cope with feeling overwhelmed.'</p><p>He then adds, 'On top of that, you should also think about developing your social/ soft skills as in the end of the day, you will be working with other people.'</p><p>There isn't a typical day on the job for Ervins, and he hasn't stopped learning new programming frameworks to enhance his technical toolbox. Though he learned the MERN stack during his time at <a href='https://strive.school/?utm_source=strive_blog&amp;utm_campaign=i-was-a-salesman-6-months-ago-and-now-i-am-a-professional-web-developer'>Strive</a>, Ervins is now also working on a new project at work using PHP For Ervins, learning doesn't stop here, because after all, this is only the beginning!</p></div> ",
+        "createdAt": "2022-02-04T01:02:52.547Z",
+        "updatedAt": "2022-02-04T01:03:03.571Z"
+    }
+]

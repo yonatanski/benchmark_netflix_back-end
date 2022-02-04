@@ -1,0 +1,63 @@
+[
+    {
+        "id": "3ys3ifckyvpnzst",
+        "category": "Horror",
+        "title": "Scream",
+        "cover": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "readTime": {
+            "value": 4,
+            "unit": "minute"
+        },
+        "author": {
+            "name": "Yoo",
+            "avatar": "Zarki"
+        },
+        "content": "<div class='py-5 blog-content'><p>MERN Stack: MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node. js. It is designed to make the development process smoother and easier.</p></div>",
+        "createdAt": "2022-01-26T15:37:22.684Z",
+        "updatedAt": "2022-01-26T15:45:47.756Z"
+    },
+    {
+        "id": "3ys3kpwkyvrfgqz",
+        "category": "Comedy",
+        "title": "Horror",
+        "cover": "https://miro.medium.com/max/1400/1*k0SazfSJ-tPSBbt2WDYIyw.png",
+        "author": {
+            "name": "Yonatan"
+        },
+        "content": "MERN Stack: MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node. js. It is designed to make the development process smoother and easier.",
+        "createdAt": "2022-01-26T16:26:43.978Z"
+    },
+    {
+        "id": "3ys3kpwkyvrsk8z",
+        "category": "Horror",
+        "title": "Strivers",
+        "cover": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/168257270/original/f78696dbacb2929525009ef4f3380f8ebdee8bab/develop-mern-stack-application.jpg",
+        "author": {
+            "name": "Ubiyt Backender"
+        },
+        "content": "dhhhhhhhhhffffhsfhdoifhglfdnkbkddddnnnnnnnn",
+        "createdAt": "2022-01-26T16:36:55.043Z"
+    },
+    {
+        "id": "3ys3f74kyvsek7c",
+        "category": "Horror",
+        "title": "strivers story",
+        "cover": "https://miro.medium.com/max/1400/1*k0SazfSJ-tPSBbt2WDYIyw.png",
+        "author": {
+            "name": "Yonatan"
+        },
+        "content": "hnggggggggggggggggggggggggggggggggggggggggggngngnnbmm",
+        "createdAt": "2022-01-26T16:54:01.415Z"
+    },
+    {
+        "id": "3ys3f74kywy0gte",
+        "category": "Romance",
+        "title": "yooooo ni",
+        "cover": "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg",
+        "author": {
+            "name": "surj cherkos"
+        },
+        "content": "<p>© Copyright Hays Specialist Recruitment Limited 2018. HAYS, the Corporate and Sector H devices, Recruiting experts worldwide, the HAYS Recruiting experts worldwide logo and Powering the World of Work are trade marks of Hays plc The Corporate and Sector H devices are original designs protected by registration in many countries. All rights are reserved.</p>",
+        "createdAt": "2022-01-27T12:18:47.714Z"
+    }
+]

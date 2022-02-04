@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Anderson",
+        "surname": "Lon",
+        "email": "Jamir72@hotmail.com",
+        "date of birth": "Jan-25-1999",
+        "avatar": "https://ui-avatars.com/api/?name=AndersonLon",
+        "createdAt": "2022-01-25T15:47:15.519Z",
+        "id": "3ys36gskyuakukg"
+    },
+    {
+        "name": "Wilson",
+        "surname": "Felipe",
+        "email": "Shemar58@yahoo.com",
+        "date of birth": "Jan-25-1999",
+        "avatar": "https://ui-avatars.com/api/?name=WilsonFelipe",
+        "createdAt": "2022-01-25T15:47:18.808Z",
+        "id": "3ys36gskyuakx3s"
+    },
+    {
+        "name": "Ramiro",
+        "surname": "Esperanza",
+        "email": "Preston_Kautzer96@yahoo.com",
+        "date of birth": "Jan-25-1999",
+        "avatar": "https://ui-avatars.com/api/?name=TwilaHassie",
+        "createdAt": "2022-01-25T15:47:21.410Z",
+        "id": "3ys36gskyuakz42",
+        "updatedAt": "2022-01-25T15:48:26.512Z"
+    }
+]
