@@ -94,7 +94,7 @@ mediaRouter.put("/:id", async (req, res, next) => {
 mediaRouter.delete("/:id", async (req, res, next) => {
   try {
     const mediaJsonArray = await readMediaJson()
-    const remainingMedias = mediaJsonArray.filter((blog) => blog.id !== req.params.id)
+    const remainingMedias = mediaJsonArray.filter((blog) => blog.imdbID !== req.params.id)
     await writeMediatJson(remainingMedias)
     res.status(204).send(`USER SUCCESSFULLY DELETED`)
   } catch (error) {
